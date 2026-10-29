@@ -7,7 +7,7 @@ D = json.load(open(os.path.join(ROOT, "data/players.json")))
 E = lambda x: html.escape(str(x)) if x is not None else ""
 LEVEL_ORDER = ["MLB", "Triple-A", "Double-A", "High-A", "Single-A", "Rookie", "Independent", "Signed (no assignment)"]
 SITE = "Pirates in the Pros"
-NEWSLETTER_ACTION = "#"  # TODO: replace with beehiiv/Buttondown/Kit form endpoint
+NEWSLETTER_ACTION = "https://app.kit.com/forms/10117322/subscriptions"  # Kit form "Monday Box Score signup"
 STATUS_LABEL = {"active": "Active", "released": "Released", "free agent": "Free agent", "retired": "Retired", "inactive": "Inactive", "unknown": "Unconfirmed"}
 
 def fmt_date(s):
@@ -42,7 +42,7 @@ def newsletter():
     return f"""<section id="newsletter" class="card news"><div><h2>The Monday Box Score</h2>
 <p>One short email a week: how every Pirate in pro ball did, who moved up, and off-season moves. Free.</p></div>
 <form action="{NEWSLETTER_ACTION}" method="post" onsubmit="return pipSignup(this)">
-<label class="sr" for="em">Email</label><input id="em" type="email" name="email" placeholder="you@example.com" required>
+<label class="sr" for="em">Email</label><input id="em" type="email" name="email_address" placeholder="you@example.com" required>
 <button type="submit">Sign me up</button><p class="formmsg" aria-live="polite"></p></form></section>"""
 
 def badge(p):
@@ -225,7 +225,7 @@ function apply(){[].forEach.call(tb.rows,function(r){var ok=(!fl.value||r.datase
 [fl,ft,fs].forEach(function(e){e.addEventListener('change',apply)});apply();
 [].forEach.call(t.tHead.rows[0].cells,function(th,i){th.addEventListener('click',function(){var asc=!th.classList.contains('asc');[].forEach.call(t.tHead.rows[0].cells,function(c){c.classList.remove('asc','desc')});th.classList.add(asc?'asc':'desc');
 var rows=[].slice.call(tb.rows);rows.sort(function(a,b){var x=a.cells[i].dataset.v,y=b.cells[i].dataset.v;var nx=parseFloat(x),ny=parseFloat(y);var c=(!isNaN(nx)&&!isNaN(ny))?nx-ny:(x||'~').localeCompare(y||'~');return asc?c:-c});rows.forEach(function(r){tb.appendChild(r)});});});})();
-function pipSignup(f){if(f.getAttribute('action')==='#'){f.querySelector('.formmsg').textContent="Thanks! Sign-ups open soon. (Newsletter not connected yet.)";return false}return true}
+function pipSignup(f){var m=f.querySelector('.formmsg'),b=f.querySelector('button');if(f.getAttribute('action')==='#'){m.textContent="Thanks! Sign-ups open soon.";return false}b.disabled=true;fetch(f.action,{method:'POST',mode:'no-cors',body:new FormData(f)}).then(function(){m.textContent="You're in! Check your inbox to confirm.";f.reset()}).catch(function(){m.textContent="Hmm, that didn't go through. Try again?"}).finally(function(){b.disabled=false});return false}
 """
 
 def main():
