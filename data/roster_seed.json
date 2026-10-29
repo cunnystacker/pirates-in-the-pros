@@ -1,0 +1,248 @@
+{
+  "_about": "Players tracked via the MLB Stats API. id = MLB person id. Sources: D=MLB draft data (school=East Carolina), R=2026 roster scan (education=East Carolina), E=ECU 'Pirates in the Pros' page, DR=Daily Reflector, F=FanDaily. Status is computed by scripts/pipeline.py; 'note' is shown on the site.",
+  "players": [
+    {
+      "id": 676475,
+      "ecu_years": "2018-20",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 668909,
+      "ecu_years": "2018-21",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 702056,
+      "ecu_years": "2022-24",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 656546,
+      "ecu_years": "2012-14",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 542888,
+      "ecu_years": "2010-11",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 688642,
+      "ecu_years": "2020-22",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 681393,
+      "ecu_years": "2019-21",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 687931,
+      "ecu_years": "2020-22",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ]
+    },
+    {
+      "id": 701860,
+      "ecu_years": "2022-24",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR",
+        "F"
+      ],
+      "note": ""
+    },
+    {
+      "id": 701056,
+      "ecu_years": "2021-23",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR"
+      ]
+    },
+    {
+      "id": 694742,
+      "ecu_years": "2021-23",
+      "sources": [
+        "R",
+        "E",
+        "DR"
+      ],
+      "note": "Signed as undrafted free agent (2023)."
+    },
+    {
+      "id": 701734,
+      "ecu_years": "2022-24",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR"
+      ]
+    },
+    {
+      "id": 801881,
+      "ecu_years": "2022-24",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "DR"
+      ]
+    },
+    {
+      "id": 703483,
+      "ecu_years": null,
+      "sources": [
+        "D",
+        "R",
+        "DR"
+      ]
+    },
+    {
+      "id": 831273,
+      "ecu_years": null,
+      "sources": [
+        "D",
+        "R"
+      ]
+    },
+    {
+      "id": 802680,
+      "ecu_years": "2023",
+      "sources": [
+        "D",
+        "R",
+        "E",
+        "F"
+      ]
+    },
+    {
+      "id": 701828,
+      "ecu_years": null,
+      "sources": [
+        "D",
+        "R",
+        "F"
+      ]
+    },
+    {
+      "id": 825275,
+      "ecu_years": null,
+      "sources": [
+        "D",
+        "R",
+        "DR"
+      ]
+    },
+    {
+      "id": 804989,
+      "ecu_years": null,
+      "sources": [
+        "D",
+        "R",
+        "DR"
+      ]
+    },
+    {
+      "id": 804113,
+      "ecu_years": null,
+      "sources": [
+        "R",
+        "DR"
+      ],
+      "note": "Signed as undrafted free agent (Sept 2025)."
+    },
+    {
+      "id": 701052,
+      "ecu_years": null,
+      "sources": [
+        "R"
+      ],
+      "note": "Signed minor-league deal May 2026; ECU listed as college in MLB bio. ECU years not verified."
+    },
+    {
+      "id": 701059,
+      "ecu_years": null,
+      "sources": [
+        "R"
+      ],
+      "note": "Acquired from Tri-City ValleyCats (Frontier League) June 2026; ECU listed as college in MLB bio. ECU years not verified."
+    },
+    {
+      "id": 701053,
+      "ecu_years": "2019-23",
+      "sources": [
+        "R",
+        "E",
+        "DR"
+      ],
+      "note": "Undrafted free agent signing."
+    },
+    {
+      "id": 668998,
+      "ecu_years": null,
+      "sources": [
+        "D"
+      ]
+    },
+    {
+      "id": 804116,
+      "ecu_years": null,
+      "sources": [
+        "D"
+      ]
+    }
+  ]
+}

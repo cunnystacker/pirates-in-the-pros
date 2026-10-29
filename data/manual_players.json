@@ -1,0 +1,14 @@
+{
+ "_about": "Hand-kept ECU pros the MLB Stats API does not cover (no MLB person record yet, independent leagues, overseas). Edit by hand; each entry needs a source. status: active | released | retired | unknown.",
+ "players": [
+  {"name":"Joseph Webb","position":"RHP","bats_throws":null,"org":"Seattle Mariners","team":"(not yet assigned)","level":"Signed (no assignment)","league":null,"status":"active","ecu_years":"2026","uncertain":true,
+   "note":"Agreed to an undrafted free-agent deal with Seattle after the 2026 draft (pitched for Williamsport in the MLB Draft League). No MLB Stats API record yet.",
+   "sources":["https://www.reflector.com/sports/ecu-roundup-another-pirate-added-to-mlb-franchise/article_2febb638-7c99-4dde-a705-fe43486b0ef5.html","https://www.mlbdraftleague.com/history/udfa-indy"]},
+  {"name":"Danny Beal","position":"RHP","bats_throws":null,"org":"Independent","team":"Down East Bird Dawgs","level":"Independent","league":"Frontier League","status":"unknown","ecu_years":null,"uncertain":true,
+   "note":"Frontier League Pitcher of the Week July 2025. 2026 status not confirmed.",
+   "sources":["https://www.wnct.com/sports/former-pirate-hurler-beal-named-frontier-league-pitcher-of-the-week/"]},
+  {"name":"Ben Terwilliger","position":"RHP","bats_throws":null,"org":"Independent","team":"Florence Y'alls (2024)","level":"Independent","league":"Frontier League","status":"unknown","ecu_years":null,"uncertain":true,
+   "note":"Frontier League All-Star in 2024. 2025-26 status not confirmed.",
+   "sources":["https://florenceyalls.com/blogs/news/terwilliger-competes-in-frontier-league-all-star-game"]}
+ ]
+}

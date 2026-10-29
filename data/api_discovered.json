@@ -1,0 +1,156 @@
+[
+ {
+  "id": 694742,
+  "name": "Josh Moylan",
+  "team": "Hudson Valley Renegades",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 801881,
+  "name": "Jacob Jenkins-Cowart",
+  "team": "Beloit Sky Carp",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 681393,
+  "name": "Connor Norby",
+  "team": "Jacksonville Jumbo Shrimp",
+  "sport": 11,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 687931,
+  "name": "Carson Whisenhunt",
+  "team": "Sacramento River Cats",
+  "sport": 11,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 542888,
+  "name": "Shawn Armstrong",
+  "team": "Cleveland Guardians",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 668909,
+  "name": "Gavin Williams",
+  "team": "Cleveland Guardians",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 688642,
+  "name": "Zach Agnos",
+  "team": "Colorado Rockies",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 676475,
+  "name": "Alec Burleson",
+  "team": "St. Louis Cardinals",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 656546,
+  "name": "Jeff Hoffman",
+  "team": "Toronto Blue Jays",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 702056,
+  "name": "Trey Yesavage",
+  "team": "Toronto Blue Jays",
+  "sport": 1,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 703483,
+  "name": "Dixon Williams",
+  "team": "Columbus Clingstones",
+  "sport": 12,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 701056,
+  "name": "Josh Grosz",
+  "team": "Amarillo Sod Poodles",
+  "sport": 12,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 802680,
+  "name": "Tyler Bradt",
+  "team": "Palm Beach Cardinals",
+  "sport": 14,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 831273,
+  "name": "Ethan Young",
+  "team": "Palm Beach Cardinals",
+  "sport": 14,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 804989,
+  "name": "Gavin Van Kempen",
+  "team": "ACL Dodgers",
+  "sport": 16,
+  "rosterType": "40Man"
+ },
+ {
+  "id": 701828,
+  "name": "Wyatt Lunsford-Shenkman",
+  "team": "Everett AquaSox",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 701052,
+  "name": "Bradley Wilson",
+  "team": "Dunedin Blue Jays",
+  "sport": 14,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 701860,
+  "name": "Carter Cunningham",
+  "team": "Vancouver Canadians",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 825275,
+  "name": "Ethan Norby",
+  "team": "Daytona Tortugas",
+  "sport": 14,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 701734,
+  "name": "Ryan McCrystal",
+  "team": "Dayton Dragons",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 701059,
+  "name": "Nate Nabholz",
+  "team": "Eugene Emeralds",
+  "sport": 13,
+  "rosterType": "fullSeason"
+ },
+ {
+  "id": 804113,
+  "name": "Jake Hunter",
+  "team": "FCL Twins",
+  "sport": 16,
+  "rosterType": "fullSeason"
+ }
+]
