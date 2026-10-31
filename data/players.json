@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T16:10:20+00:00",
+ "generated_at": "2026-10-31T15:28:33+00:00",
  "season": 2026,
  "players": [
   {
@@ -818,13 +818,13 @@
     {
      "date": "2021-02-12",
      "kind": "Assigned",
-     "desc": "OF Alec Burleson assigned to Cardinals Organization.",
+     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
      "typeDesc": "Assigned"
     },
     {
      "date": "2021-02-12",
      "kind": "Assigned",
-     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
+     "desc": "OF Alec Burleson assigned to Cardinals Organization.",
      "typeDesc": "Assigned"
     },
     {
@@ -835,20 +835,20 @@
     },
     {
      "date": "2021-05-17",
-     "kind": "Assigned",
-     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-05-17",
-     "kind": "Assigned",
-     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-05-17",
      "kind": "Promotion",
      "desc": "OF Alec Burleson assigned to Springfield Cardinals from Peoria Chiefs.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-05-17",
+     "kind": "Assigned",
+     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-05-17",
+     "kind": "Assigned",
+     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
      "typeDesc": "Assigned"
     },
     {
@@ -859,15 +859,15 @@
     },
     {
      "date": "2022-03-18",
-     "kind": "Other",
-     "desc": "OF Alec Burleson roster status changed by St. Louis Cardinals.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-03-18",
      "kind": "Assigned",
      "desc": "OF Alec Burleson assigned to St. Louis Cardinals.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-03-18",
+     "kind": "Other",
+     "desc": "OF Alec Burleson roster status changed by St. Louis Cardinals.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2022-09-07",
@@ -6140,6 +6140,12 @@
     },
     {
      "date": "2023-02-27",
+     "kind": "Signed",
+     "desc": "Minnesota Twins signed free agent RHP Jeff Hoffman to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
+    },
+    {
+     "date": "2023-02-27",
      "kind": "Activated",
      "desc": "St. Paul Saints activated RHP Jeff Hoffman.",
      "typeDesc": "Status Change"
@@ -6149,12 +6155,6 @@
      "kind": "Assigned",
      "desc": "RHP Jeff Hoffman assigned to St. Paul Saints.",
      "typeDesc": "Assigned"
-    },
-    {
-     "date": "2023-02-27",
-     "kind": "Signed",
-     "desc": "Minnesota Twins signed free agent RHP Jeff Hoffman to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2023-03-05",
@@ -6267,8 +6267,8 @@
     "Triple-A",
     "Double-A"
    ],
-   "status": "active",
-   "status_note": null,
+   "status": "free agent",
+   "status_note": "RHP Shawn Armstrong elected free agency. (2026-10-30)",
    "uncertain": [],
    "note": null,
    "ecu_years": "2010-11",
@@ -9975,15 +9975,15 @@
     },
     {
      "date": "2022-03-19",
-     "kind": "Other",
-     "desc": "RHP Shawn Armstrong roster status changed by Miami Marlins.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-03-19",
      "kind": "Assigned",
      "desc": "RHP Shawn Armstrong assigned to Miami Marlins.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-03-19",
+     "kind": "Other",
+     "desc": "RHP Shawn Armstrong roster status changed by Miami Marlins.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2022-03-19",
@@ -10017,15 +10017,15 @@
     },
     {
      "date": "2022-05-10",
-     "kind": "Signed",
-     "desc": "Tampa Bay Rays signed free agent RHP Shawn Armstrong to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2022-05-10",
      "kind": "Assigned",
      "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-05-10",
+     "kind": "Signed",
+     "desc": "Tampa Bay Rays signed free agent RHP Shawn Armstrong to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2022-05-31",
@@ -10113,15 +10113,15 @@
     },
     {
      "date": "2025-12-21",
-     "kind": "Signed",
-     "desc": "Cleveland Guardians signed free agent RHP Shawn Armstrong.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2025-12-21",
      "kind": "Activated",
      "desc": "Cleveland Guardians activated RHP Shawn Armstrong.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-12-21",
+     "kind": "Signed",
+     "desc": "Cleveland Guardians signed free agent RHP Shawn Armstrong.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2026-04-26",
@@ -10170,6 +10170,12 @@
      "kind": "Activated",
      "desc": "Cleveland Guardians activated RHP Shawn Armstrong from the 60-day injured list.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-10-30",
+     "kind": "Free agent",
+     "desc": "RHP Shawn Armstrong elected free agency.",
+     "typeDesc": "Declared Free Agency"
     }
    ],
    "source": "MLB Stats API",
@@ -11164,13 +11170,13 @@
     {
      "date": "2022-07-01",
      "kind": "Assigned",
-     "desc": "3B Zach Agnos assigned to College Workout.",
+     "desc": "RHP Zach Agnos assigned to College Workout.",
      "typeDesc": "Assigned"
     },
     {
      "date": "2022-07-01",
      "kind": "Assigned",
-     "desc": "RHP Zach Agnos assigned to College Workout.",
+     "desc": "3B Zach Agnos assigned to College Workout.",
      "typeDesc": "Assigned"
     },
     {
@@ -14302,15 +14308,15 @@
     },
     {
      "date": "2023-04-26",
-     "kind": "Activated",
-     "desc": "Eugene Emeralds activated LHP Carson Whisenhunt.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-04-26",
      "kind": "Assigned",
      "desc": "LHP Carson Whisenhunt assigned to San Jose Giants.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-04-26",
+     "kind": "Activated",
+     "desc": "Eugene Emeralds activated LHP Carson Whisenhunt.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-06-03",
@@ -14434,15 +14440,15 @@
     },
     {
      "date": "2026-03-05",
-     "kind": "Activated",
-     "desc": "San Francisco Giants Prospects activated LHP Carson Whisenhunt.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2026-03-05",
      "kind": "Assigned",
      "desc": "LHP Carson Whisenhunt assigned to San Francisco Giants Prospects.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2026-03-05",
+     "kind": "Activated",
+     "desc": "San Francisco Giants Prospects activated LHP Carson Whisenhunt.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2026-03-18",
@@ -16160,15 +16166,15 @@
     },
     {
      "date": "2026-01-10",
-     "kind": "Other",
-     "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2026-01-10",
      "kind": "Assigned",
      "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2026-01-10",
+     "kind": "Other",
+     "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2026-01-10",
@@ -17546,15 +17552,15 @@
     },
     {
      "date": "2022-05-19",
-     "kind": "Activated",
-     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-05-19",
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Kingsport Axmen.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-05-19",
+     "kind": "Activated",
+     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2022-05-20",
@@ -17570,15 +17576,15 @@
     },
     {
      "date": "2023-04-18",
-     "kind": "Assigned",
-     "desc": "C Ryan McCrystal assigned to East Carolina Pirates.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2023-04-18",
      "kind": "Activated",
      "desc": "East Carolina Pirates activated C Ryan McCrystal.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2023-04-18",
+     "kind": "Assigned",
+     "desc": "C Ryan McCrystal assigned to East Carolina Pirates.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2023-06-10",
@@ -17606,15 +17612,15 @@
     },
     {
      "date": "2024-06-11",
-     "kind": "Activated",
-     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2024-06-11",
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2024-06-11",
+     "kind": "Activated",
+     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2024-07-22",
@@ -18257,15 +18263,15 @@
     },
     {
      "date": "2024-08-02",
-     "kind": "Activated",
-     "desc": "Jupiter Hammerheads activated OF Jacob Jenkins-Cowart.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2024-08-02",
      "kind": "Assigned",
      "desc": "OF Jacob Jenkins-Cowart assigned to Jupiter Hammerheads.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2024-08-02",
+     "kind": "Activated",
+     "desc": "Jupiter Hammerheads activated OF Jacob Jenkins-Cowart.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2025-02-26",
@@ -20636,15 +20642,15 @@
     },
     {
      "date": "2023-04-18",
-     "kind": "Activated",
-     "desc": "East Carolina Pirates activated RHP Tyler Bradt.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-04-18",
      "kind": "Assigned",
      "desc": "RHP Tyler Bradt assigned to East Carolina Pirates.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-04-18",
+     "kind": "Activated",
+     "desc": "East Carolina Pirates activated RHP Tyler Bradt.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-07-17",
@@ -20666,15 +20672,15 @@
     },
     {
      "date": "2025-02-26",
-     "kind": "Assigned",
-     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2025-02-26",
      "kind": "Other",
      "desc": "RHP Tyler Bradt roster status changed by St. Louis Cardinals.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-02-26",
+     "kind": "Assigned",
+     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2025-03-06",
@@ -20696,15 +20702,15 @@
     },
     {
      "date": "2026-02-21",
-     "kind": "Assigned",
-     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-02-21",
      "kind": "Other",
      "desc": "RHP Tyler Bradt roster status changed by St. Louis Cardinals.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-02-21",
+     "kind": "Assigned",
+     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-05",
@@ -21784,15 +21790,15 @@
     },
     {
      "date": "2026-06-17",
-     "kind": "Assigned",
-     "desc": "LHP Ethan Norby assigned to College Workout.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-06-17",
      "kind": "Activated",
      "desc": "College Workout activated LHP Ethan Norby.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-06-17",
+     "kind": "Assigned",
+     "desc": "LHP Ethan Norby assigned to College Workout.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-07-16",
@@ -21883,15 +21889,15 @@
    "transactions": [
     {
      "date": "2022-06-05",
-     "kind": "Activated",
-     "desc": "College Workout activated RHP Gavin Van Kempen.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-06-05",
      "kind": "Assigned",
      "desc": "RHP Gavin Van Kempen assigned to College Workout.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-06-05",
+     "kind": "Activated",
+     "desc": "College Workout activated RHP Gavin Van Kempen.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-02-27",
@@ -21913,26 +21919,26 @@
     },
     {
      "date": "2025-04-05",
+     "kind": "Activated",
+     "desc": "West Virginia Mountaineers activated RHP Gavin Van Kempen.",
+     "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-04-05",
      "kind": "Assigned",
      "desc": "RHP Gavin Van Kempen assigned to West Virginia Mountaineers.",
      "typeDesc": "Assigned"
     },
     {
-     "date": "2025-04-05",
-     "kind": "Activated",
-     "desc": "West Virginia Mountaineers activated RHP Gavin Van Kempen.",
+     "date": "2025-06-14",
+     "kind": "Other",
+     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2025-06-14",
      "kind": "Activated",
      "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2025-06-14",
-     "kind": "Other",
-     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
      "typeDesc": "Status Change"
     },
     {
@@ -24048,15 +24054,15 @@
     },
     {
      "date": "2024-01-09",
-     "kind": "Assigned",
-     "desc": "RHP Carter Spivey assigned to ACL Guardians.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2024-01-09",
      "kind": "Signed",
      "desc": "Cleveland Guardians signed free agent RHP Carter Spivey to a minor league contract.",
      "typeDesc": "Signed as Free Agent"
+    },
+    {
+     "date": "2024-01-09",
+     "kind": "Assigned",
+     "desc": "RHP Carter Spivey assigned to ACL Guardians.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2024-04-02",
@@ -24121,13 +24127,13 @@
     {
      "date": "2025-06-12",
      "kind": "Injured/Dev list",
-     "desc": "Akron RubberDucks placed RHP Carter Spivey on the 7-day injured list.",
+     "desc": "Akron RubberDucks placed RHP Carter Spivey on the 7-day injured list. Right shoulder strain.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2025-06-12",
      "kind": "Injured/Dev list",
-     "desc": "Akron RubberDucks placed RHP Carter Spivey on the 7-day injured list. Right shoulder strain.",
+     "desc": "Akron RubberDucks placed RHP Carter Spivey on the 7-day injured list.",
      "typeDesc": "Status Change"
     },
     {
@@ -25109,6 +25115,14 @@
  ],
  "recent_moves": [
   {
+   "date": "2026-10-30",
+   "kind": "Free agent",
+   "desc": "RHP Shawn Armstrong elected free agency.",
+   "typeDesc": "Declared Free Agency",
+   "player": "Shawn Armstrong",
+   "slug": "shawn-armstrong-542888"
+  },
+  {
    "date": "2026-09-28",
    "kind": "Activated",
    "desc": "Minnesota Twins activated RHP Jeff Hoffman from the 15-day injured list.",
@@ -25526,17 +25540,17 @@
   },
   {
    "date": "2026-06-17",
-   "kind": "Assigned",
-   "desc": "LHP Ethan Norby assigned to College Workout.",
-   "typeDesc": "Assigned",
+   "kind": "Activated",
+   "desc": "College Workout activated LHP Ethan Norby.",
+   "typeDesc": "Status Change",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
   {
    "date": "2026-06-17",
-   "kind": "Activated",
-   "desc": "College Workout activated LHP Ethan Norby.",
-   "typeDesc": "Status Change",
+   "kind": "Assigned",
+   "desc": "LHP Ethan Norby assigned to College Workout.",
+   "typeDesc": "Assigned",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
@@ -25579,14 +25593,6 @@
    "typeDesc": "Status Change",
    "player": "Jacob Jenkins-Cowart",
    "slug": "jacob-jenkins-cowart-801881"
-  },
-  {
-   "date": "2026-05-23",
-   "kind": "Injured/Dev list",
-   "desc": "Amarillo Sod Poodles transferred RHP Josh Grosz to the Development List.",
-   "typeDesc": "Status Change",
-   "player": "Josh Grosz",
-   "slug": "josh-grosz-701056"
   }
  ]
 }
