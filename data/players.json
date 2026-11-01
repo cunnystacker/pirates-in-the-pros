@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:28:33+00:00",
+ "generated_at": "2026-11-01T16:15:39+00:00",
  "season": 2026,
  "players": [
   {
@@ -14278,15 +14278,15 @@
     },
     {
      "date": "2022-08-15",
-     "kind": "Activated",
-     "desc": "ACL Giants Orange activated LHP Carson Whisenhunt.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-08-15",
      "kind": "Assigned",
      "desc": "LHP Carson Whisenhunt assigned to ACL Giants Orange.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-08-15",
+     "kind": "Activated",
+     "desc": "ACL Giants Orange activated LHP Carson Whisenhunt.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2022-08-30",
@@ -14440,15 +14440,15 @@
     },
     {
      "date": "2026-03-05",
-     "kind": "Assigned",
-     "desc": "LHP Carson Whisenhunt assigned to San Francisco Giants Prospects.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-03-05",
      "kind": "Activated",
      "desc": "San Francisco Giants Prospects activated LHP Carson Whisenhunt.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-03-05",
+     "kind": "Assigned",
+     "desc": "LHP Carson Whisenhunt assigned to San Francisco Giants Prospects.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-18",
@@ -16070,15 +16070,15 @@
     },
     {
      "date": "2023-04-18",
-     "kind": "Activated",
-     "desc": "East Carolina Pirates activated RHP Josh Grosz.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-04-18",
      "kind": "Assigned",
      "desc": "RHP Josh Grosz assigned to East Carolina Pirates.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-04-18",
+     "kind": "Activated",
+     "desc": "East Carolina Pirates activated RHP Josh Grosz.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-06-15",
@@ -16166,15 +16166,15 @@
     },
     {
      "date": "2026-01-10",
-     "kind": "Assigned",
-     "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-01-10",
      "kind": "Other",
      "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-01-10",
+     "kind": "Assigned",
+     "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-01-10",
@@ -21376,15 +21376,15 @@
     },
     {
      "date": "2025-04-02",
-     "kind": "Assigned",
-     "desc": "RHP Wyatt Lunsford-Shenkman assigned to Modesto Nuts.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2025-04-02",
      "kind": "Injured/Dev list",
      "desc": "Modesto Nuts placed RHP Wyatt Lunsford-Shenkman on the 60-day injured list.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-04-02",
+     "kind": "Assigned",
+     "desc": "RHP Wyatt Lunsford-Shenkman assigned to Modesto Nuts.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2025-08-12",
@@ -21889,15 +21889,15 @@
    "transactions": [
     {
      "date": "2022-06-05",
-     "kind": "Assigned",
-     "desc": "RHP Gavin Van Kempen assigned to College Workout.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2022-06-05",
      "kind": "Activated",
      "desc": "College Workout activated RHP Gavin Van Kempen.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2022-06-05",
+     "kind": "Assigned",
+     "desc": "RHP Gavin Van Kempen assigned to College Workout.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2023-02-27",
@@ -21931,14 +21931,14 @@
     },
     {
      "date": "2025-06-14",
-     "kind": "Other",
-     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
+     "kind": "Activated",
+     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2025-06-14",
-     "kind": "Activated",
-     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
+     "kind": "Other",
+     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
      "typeDesc": "Status Change"
     },
     {
