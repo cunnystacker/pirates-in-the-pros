@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:41:50+00:00",
+ "generated_at": "2026-11-03T17:14:49+00:00",
  "season": 2026,
  "players": [
   {
@@ -12877,7 +12877,7 @@
     "Triple-A"
    ],
    "status": "active",
-   "status_note": "Last IL move: San Francisco Giants transferred LHP Carson Whisenhunt from the 15-day injured list to the 60-day injured list. Left elbow sprain. (2026-08-26)",
+   "status_note": null,
    "uncertain": [],
    "note": null,
    "ecu_years": "2020-22",
@@ -14278,15 +14278,15 @@
     },
     {
      "date": "2022-08-15",
-     "kind": "Assigned",
-     "desc": "LHP Carson Whisenhunt assigned to ACL Giants Orange.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2022-08-15",
      "kind": "Activated",
      "desc": "ACL Giants Orange activated LHP Carson Whisenhunt.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2022-08-15",
+     "kind": "Assigned",
+     "desc": "LHP Carson Whisenhunt assigned to ACL Giants Orange.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2022-08-30",
@@ -14308,15 +14308,15 @@
     },
     {
      "date": "2023-04-26",
-     "kind": "Assigned",
-     "desc": "LHP Carson Whisenhunt assigned to San Jose Giants.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2023-04-26",
      "kind": "Activated",
      "desc": "Eugene Emeralds activated LHP Carson Whisenhunt.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2023-04-26",
+     "kind": "Assigned",
+     "desc": "LHP Carson Whisenhunt assigned to San Jose Giants.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2023-06-03",
@@ -14502,6 +14502,12 @@
      "date": "2026-08-26",
      "kind": "Injured/Dev list",
      "desc": "San Francisco Giants transferred LHP Carson Whisenhunt from the 15-day injured list to the 60-day injured list. Left elbow sprain.",
+     "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-11-02",
+     "kind": "Activated",
+     "desc": "San Francisco Giants activated LHP Carson Whisenhunt from the 60-day injured list.",
      "typeDesc": "Status Change"
     }
    ],
@@ -19497,15 +19503,15 @@
     },
     {
      "date": "2025-07-19",
-     "kind": "Signed",
-     "desc": "St. Louis Cardinals signed RHP Ethan Young.",
-     "typeDesc": "Signed"
-    },
-    {
-     "date": "2025-07-19",
      "kind": "Assigned",
      "desc": "RHP Ethan Young assigned to FCL Cardinals.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2025-07-19",
+     "kind": "Signed",
+     "desc": "St. Louis Cardinals signed RHP Ethan Young.",
+     "typeDesc": "Signed"
     },
     {
      "date": "2025-08-04",
@@ -25115,6 +25121,14 @@
  ],
  "recent_moves": [
   {
+   "date": "2026-11-02",
+   "kind": "Activated",
+   "desc": "San Francisco Giants activated LHP Carson Whisenhunt from the 60-day injured list.",
+   "typeDesc": "Status Change",
+   "player": "Carson Whisenhunt",
+   "slug": "carson-whisenhunt-687931"
+  },
+  {
    "date": "2026-10-30",
    "kind": "Free agent",
    "desc": "RHP Shawn Armstrong elected free agency.",
@@ -25585,14 +25599,6 @@
    "typeDesc": "Optioned",
    "player": "Zach Agnos",
    "slug": "zach-agnos-688642"
-  },
-  {
-   "date": "2026-05-26",
-   "kind": "Activated",
-   "desc": "Beloit Sky Carp activated OF Jacob Jenkins-Cowart from the 7-day injured list.",
-   "typeDesc": "Status Change",
-   "player": "Jacob Jenkins-Cowart",
-   "slug": "jacob-jenkins-cowart-801881"
   }
  ]
 }
