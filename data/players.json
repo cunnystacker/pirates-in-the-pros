@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T17:14:49+00:00",
+ "generated_at": "2026-11-04T17:26:21+00:00",
  "season": 2026,
  "players": [
   {
@@ -17553,13 +17553,13 @@
     {
      "date": "2022-05-19",
      "kind": "Assigned",
-     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
+     "desc": "C Ryan McCrystal assigned to Kingsport Axmen.",
      "typeDesc": "Assigned"
     },
     {
      "date": "2022-05-19",
      "kind": "Assigned",
-     "desc": "C Ryan McCrystal assigned to Kingsport Axmen.",
+     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
      "typeDesc": "Assigned"
     },
     {
@@ -17594,15 +17594,15 @@
     },
     {
      "date": "2023-06-10",
-     "kind": "Assigned",
-     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2023-06-10",
      "kind": "Activated",
      "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2023-06-10",
+     "kind": "Assigned",
+     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2024-05-09",
@@ -17618,15 +17618,15 @@
     },
     {
      "date": "2024-06-11",
-     "kind": "Assigned",
-     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2024-06-11",
      "kind": "Activated",
      "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2024-06-11",
+     "kind": "Assigned",
+     "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2024-07-22",
@@ -19571,7 +19571,7 @@
     "Rookie"
    ],
    "status": "active",
-   "status_note": "Last IL move: Springfield Cardinals transferred RHP Tyler Bradt from the 7-day injured list to the 60-day injured list. (2026-08-06)",
+   "status_note": null,
    "uncertain": [],
    "note": null,
    "ecu_years": "2023",
@@ -20708,15 +20708,15 @@
     },
     {
      "date": "2026-02-21",
-     "kind": "Assigned",
-     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-02-21",
      "kind": "Other",
      "desc": "RHP Tyler Bradt roster status changed by St. Louis Cardinals.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-02-21",
+     "kind": "Assigned",
+     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-05",
@@ -20758,6 +20758,12 @@
      "date": "2026-08-06",
      "kind": "Injured/Dev list",
      "desc": "Springfield Cardinals transferred RHP Tyler Bradt from the 7-day injured list to the 60-day injured list.",
+     "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-11-02",
+     "kind": "Activated",
+     "desc": "Springfield Cardinals activated RHP Tyler Bradt from the 60-day injured list.",
      "typeDesc": "Status Change"
     }
    ],
@@ -22365,15 +22371,15 @@
     },
     {
      "date": "2025-08-29",
-     "kind": "Assigned",
-     "desc": "RHP Jake Hunter assigned to FCL Twins.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2025-08-29",
      "kind": "Signed",
      "desc": "Minnesota Twins signed free agent RHP Jake Hunter to a minor league contract.",
      "typeDesc": "Signed as Free Agent"
+    },
+    {
+     "date": "2025-08-29",
+     "kind": "Assigned",
+     "desc": "RHP Jake Hunter assigned to FCL Twins.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-27",
@@ -22392,6 +22398,12 @@
      "kind": "Rehab",
      "desc": "Fort Myers Mighty Mussels sent RHP Jake Hunter on a rehab assignment to FCL Twins.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2026-11-02",
+     "kind": "Activated",
+     "desc": "Fort Myers Mighty Mussels activated RHP Jake Hunter from the 60-day injured list.",
+     "typeDesc": "Status Change"
     }
    ],
    "source": "MLB Stats API",
@@ -25129,6 +25141,22 @@
    "slug": "carson-whisenhunt-687931"
   },
   {
+   "date": "2026-11-02",
+   "kind": "Activated",
+   "desc": "Springfield Cardinals activated RHP Tyler Bradt from the 60-day injured list.",
+   "typeDesc": "Status Change",
+   "player": "Tyler Bradt",
+   "slug": "tyler-bradt-802680"
+  },
+  {
+   "date": "2026-11-02",
+   "kind": "Activated",
+   "desc": "Fort Myers Mighty Mussels activated RHP Jake Hunter from the 60-day injured list.",
+   "typeDesc": "Status Change",
+   "player": "Jake Hunter",
+   "slug": "jake-hunter-804113"
+  },
+  {
    "date": "2026-10-30",
    "kind": "Free agent",
    "desc": "RHP Shawn Armstrong elected free agency.",
@@ -25583,22 +25611,6 @@
    "typeDesc": "Assigned",
    "player": "Carter Cunningham",
    "slug": "carter-cunningham-701860"
-  },
-  {
-   "date": "2026-06-01",
-   "kind": "Activated",
-   "desc": "Albuquerque Isotopes activated RHP Zach Agnos.",
-   "typeDesc": "Status Change",
-   "player": "Zach Agnos",
-   "slug": "zach-agnos-688642"
-  },
-  {
-   "date": "2026-06-01",
-   "kind": "Optioned",
-   "desc": "Colorado Rockies optioned RHP Zach Agnos to Albuquerque Isotopes.",
-   "typeDesc": "Optioned",
-   "player": "Zach Agnos",
-   "slug": "zach-agnos-688642"
   }
  ]
 }
