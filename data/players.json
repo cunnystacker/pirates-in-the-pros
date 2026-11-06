@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T17:35:28+00:00",
+ "generated_at": "2026-11-06T16:53:35+00:00",
  "season": 2026,
  "players": [
   {
@@ -9927,15 +9927,15 @@
     },
     {
      "date": "2021-07-30",
-     "kind": "Trade/claim",
-     "desc": "Baltimore Orioles traded RHP Shawn Armstrong to Tampa Bay Rays for cash.",
-     "typeDesc": "Trade"
-    },
-    {
-     "date": "2021-07-30",
      "kind": "Assigned",
      "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-07-30",
+     "kind": "Trade/claim",
+     "desc": "Baltimore Orioles traded RHP Shawn Armstrong to Tampa Bay Rays for cash.",
+     "typeDesc": "Trade"
     },
     {
      "date": "2021-07-31",
@@ -9976,7 +9976,7 @@
     {
      "date": "2022-03-19",
      "kind": "Assigned",
-     "desc": "RHP Shawn Armstrong assigned to Miami Marlins.",
+     "desc": "RHP Shawn Armstrong assigned to Jacksonville Jumbo Shrimp.",
      "typeDesc": "Assigned"
     },
     {
@@ -9988,7 +9988,7 @@
     {
      "date": "2022-03-19",
      "kind": "Assigned",
-     "desc": "RHP Shawn Armstrong assigned to Jacksonville Jumbo Shrimp.",
+     "desc": "RHP Shawn Armstrong assigned to Miami Marlins.",
      "typeDesc": "Assigned"
     },
     {
@@ -10017,15 +10017,15 @@
     },
     {
      "date": "2022-05-10",
-     "kind": "Assigned",
-     "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2022-05-10",
      "kind": "Signed",
      "desc": "Tampa Bay Rays signed free agent RHP Shawn Armstrong to a minor league contract.",
      "typeDesc": "Signed as Free Agent"
+    },
+    {
+     "date": "2022-05-10",
+     "kind": "Assigned",
+     "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2022-05-31",
@@ -14524,7 +14524,7 @@
    "type": "Hitter",
    "bats": "L",
    "throws": "R",
-   "age": 25,
+   "age": 26,
    "hometown": "Huntington Beach, CA",
    "mlb_debut": null,
    "team": "New Hampshire Fisher Cats",
@@ -18902,15 +18902,15 @@
     },
     {
      "date": "2025-07-15",
-     "kind": "Assigned",
-     "desc": "2B Dixon Williams assigned to FCL Braves.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2025-07-15",
      "kind": "Signed",
      "desc": "Atlanta Braves signed 2B Dixon Williams.",
      "typeDesc": "Signed"
+    },
+    {
+     "date": "2025-07-15",
+     "kind": "Assigned",
+     "desc": "2B Dixon Williams assigned to FCL Braves.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2025-08-01",
@@ -18938,14 +18938,14 @@
     },
     {
      "date": "2026-03-31",
-     "kind": "Injured/Dev list",
-     "desc": "Rome Emperors placed 2B Dixon Williams on the 7-day injured list.",
+     "kind": "Activated",
+     "desc": "Rome Emperors activated 2B Dixon Williams.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2026-03-31",
-     "kind": "Activated",
-     "desc": "Rome Emperors activated 2B Dixon Williams.",
+     "kind": "Injured/Dev list",
+     "desc": "Rome Emperors placed 2B Dixon Williams on the 7-day injured list.",
      "typeDesc": "Status Change"
     },
     {
