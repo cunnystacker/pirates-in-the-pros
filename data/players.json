@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T16:53:35+00:00",
+ "generated_at": "2026-11-07T15:51:06+00:00",
  "season": 2026,
  "players": [
   {
@@ -16076,15 +16076,15 @@
     },
     {
      "date": "2023-04-18",
-     "kind": "Assigned",
-     "desc": "RHP Josh Grosz assigned to East Carolina Pirates.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2023-04-18",
      "kind": "Activated",
      "desc": "East Carolina Pirates activated RHP Josh Grosz.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2023-04-18",
+     "kind": "Assigned",
+     "desc": "RHP Josh Grosz assigned to East Carolina Pirates.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2023-06-15",
@@ -24664,15 +24664,15 @@
     },
     {
      "date": "2025-11-06",
-     "kind": "Free agent",
-     "desc": "RHP Trey Benton elected free agency.",
-     "typeDesc": "Declared Free Agency"
-    },
-    {
-     "date": "2025-11-06",
      "kind": "Activated",
      "desc": "Akron RubberDucks activated RHP Trey Benton from the full-season injured list.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-11-06",
+     "kind": "Free agent",
+     "desc": "RHP Trey Benton elected free agency.",
+     "typeDesc": "Declared Free Agency"
     }
    ],
    "source": "MLB Stats API",
