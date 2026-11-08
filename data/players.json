@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T15:51:06+00:00",
+ "generated_at": "2026-11-08T16:14:01+00:00",
  "season": 2026,
  "players": [
   {
@@ -6140,15 +6140,15 @@
     },
     {
      "date": "2023-02-27",
-     "kind": "Activated",
-     "desc": "St. Paul Saints activated RHP Jeff Hoffman.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-02-27",
      "kind": "Signed",
      "desc": "Minnesota Twins signed free agent RHP Jeff Hoffman to a minor league contract.",
      "typeDesc": "Signed as Free Agent"
+    },
+    {
+     "date": "2023-02-27",
+     "kind": "Activated",
+     "desc": "St. Paul Saints activated RHP Jeff Hoffman.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-02-27",
@@ -21931,26 +21931,26 @@
     },
     {
      "date": "2025-04-05",
-     "kind": "Activated",
-     "desc": "West Virginia Mountaineers activated RHP Gavin Van Kempen.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2025-04-05",
      "kind": "Assigned",
      "desc": "RHP Gavin Van Kempen assigned to West Virginia Mountaineers.",
      "typeDesc": "Assigned"
     },
     {
-     "date": "2025-06-14",
+     "date": "2025-04-05",
      "kind": "Activated",
-     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
+     "desc": "West Virginia Mountaineers activated RHP Gavin Van Kempen.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2025-06-14",
      "kind": "Other",
      "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
+     "typeDesc": "Status Change"
+    },
+    {
+     "date": "2025-06-14",
+     "kind": "Activated",
+     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
      "typeDesc": "Status Change"
     },
     {
