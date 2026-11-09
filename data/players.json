@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T16:14:01+00:00",
+ "generated_at": "2026-11-09T19:58:15+00:00",
  "season": 2026,
  "players": [
   {
@@ -812,19 +812,19 @@
     {
      "date": "2021-02-12",
      "kind": "Assigned",
+     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-02-12",
+     "kind": "Assigned",
+     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-02-12",
+     "kind": "Assigned",
      "desc": "OF Alec Burleson assigned to Cardinals Organization.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-02-12",
-     "kind": "Assigned",
-     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-02-12",
-     "kind": "Assigned",
-     "desc": "LF Alec Burleson assigned to Cardinals Organization.",
      "typeDesc": "Assigned"
     },
     {
@@ -19560,7 +19560,7 @@
    "age": 25,
    "hometown": "Stuart, FL",
    "mlb_debut": null,
-   "team": "Springfield Cardinals",
+   "team": "Ozarks Springbirds",
    "team_id": 440,
    "org": "St. Louis Cardinals",
    "level": "Double-A",
