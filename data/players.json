@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T17:23:45+00:00",
+ "generated_at": "2026-11-12T17:42:25+00:00",
  "season": 2026,
  "players": [
   {
@@ -11170,13 +11170,13 @@
     {
      "date": "2022-07-01",
      "kind": "Assigned",
-     "desc": "RHP Zach Agnos assigned to College Workout.",
+     "desc": "3B Zach Agnos assigned to College Workout.",
      "typeDesc": "Assigned"
     },
     {
      "date": "2022-07-01",
      "kind": "Assigned",
-     "desc": "3B Zach Agnos assigned to College Workout.",
+     "desc": "RHP Zach Agnos assigned to College Workout.",
      "typeDesc": "Assigned"
     },
     {
@@ -18269,15 +18269,15 @@
     },
     {
      "date": "2024-08-02",
-     "kind": "Assigned",
-     "desc": "OF Jacob Jenkins-Cowart assigned to Jupiter Hammerheads.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2024-08-02",
      "kind": "Activated",
      "desc": "Jupiter Hammerheads activated OF Jacob Jenkins-Cowart.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2024-08-02",
+     "kind": "Assigned",
+     "desc": "OF Jacob Jenkins-Cowart assigned to Jupiter Hammerheads.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2025-02-26",
