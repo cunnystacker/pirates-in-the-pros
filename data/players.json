@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:42:25+00:00",
+ "generated_at": "2026-11-13T17:20:34+00:00",
  "season": 2026,
  "players": [
   {
@@ -9927,15 +9927,15 @@
     },
     {
      "date": "2021-07-30",
-     "kind": "Assigned",
-     "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-07-30",
      "kind": "Trade/claim",
      "desc": "Baltimore Orioles traded RHP Shawn Armstrong to Tampa Bay Rays for cash.",
      "typeDesc": "Trade"
+    },
+    {
+     "date": "2021-07-30",
+     "kind": "Assigned",
+     "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2021-07-31",
@@ -9976,6 +9976,12 @@
     {
      "date": "2022-03-19",
      "kind": "Assigned",
+     "desc": "RHP Shawn Armstrong assigned to Miami Marlins.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-03-19",
+     "kind": "Assigned",
      "desc": "RHP Shawn Armstrong assigned to Jacksonville Jumbo Shrimp.",
      "typeDesc": "Assigned"
     },
@@ -9984,12 +9990,6 @@
      "kind": "Other",
      "desc": "RHP Shawn Armstrong roster status changed by Miami Marlins.",
      "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-03-19",
-     "kind": "Assigned",
-     "desc": "RHP Shawn Armstrong assigned to Miami Marlins.",
-     "typeDesc": "Assigned"
     },
     {
      "date": "2022-04-07",
@@ -10017,15 +10017,15 @@
     },
     {
      "date": "2022-05-10",
-     "kind": "Signed",
-     "desc": "Tampa Bay Rays signed free agent RHP Shawn Armstrong to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2022-05-10",
      "kind": "Assigned",
      "desc": "RHP Shawn Armstrong assigned to Durham Bulls.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-05-10",
+     "kind": "Signed",
+     "desc": "Tampa Bay Rays signed free agent RHP Shawn Armstrong to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2022-05-31",
