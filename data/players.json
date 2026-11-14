@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T17:20:34+00:00",
+ "generated_at": "2026-11-14T15:58:46+00:00",
  "season": 2026,
  "players": [
   {
@@ -16076,15 +16076,15 @@
     },
     {
      "date": "2023-04-18",
-     "kind": "Activated",
-     "desc": "East Carolina Pirates activated RHP Josh Grosz.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-04-18",
      "kind": "Assigned",
      "desc": "RHP Josh Grosz assigned to East Carolina Pirates.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-04-18",
+     "kind": "Activated",
+     "desc": "East Carolina Pirates activated RHP Josh Grosz.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-06-15",
@@ -16172,15 +16172,15 @@
     },
     {
      "date": "2026-01-10",
-     "kind": "Other",
-     "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2026-01-10",
      "kind": "Assigned",
      "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2026-01-10",
+     "kind": "Other",
+     "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2026-01-10",
@@ -21901,15 +21901,15 @@
    "transactions": [
     {
      "date": "2022-06-05",
-     "kind": "Activated",
-     "desc": "College Workout activated RHP Gavin Van Kempen.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-06-05",
      "kind": "Assigned",
      "desc": "RHP Gavin Van Kempen assigned to College Workout.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-06-05",
+     "kind": "Activated",
+     "desc": "College Workout activated RHP Gavin Van Kempen.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-02-27",
