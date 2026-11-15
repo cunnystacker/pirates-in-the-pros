@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T15:58:46+00:00",
+ "generated_at": "2026-11-15T16:31:27+00:00",
  "season": 2026,
  "players": [
   {
@@ -6140,15 +6140,15 @@
     },
     {
      "date": "2023-02-27",
-     "kind": "Signed",
-     "desc": "Minnesota Twins signed free agent RHP Jeff Hoffman to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2023-02-27",
      "kind": "Activated",
      "desc": "St. Paul Saints activated RHP Jeff Hoffman.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2023-02-27",
+     "kind": "Signed",
+     "desc": "Minnesota Twins signed free agent RHP Jeff Hoffman to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2023-02-27",
@@ -21802,15 +21802,15 @@
     },
     {
      "date": "2026-06-17",
-     "kind": "Assigned",
-     "desc": "LHP Ethan Norby assigned to College Workout.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-06-17",
      "kind": "Activated",
      "desc": "College Workout activated LHP Ethan Norby.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-06-17",
+     "kind": "Assigned",
+     "desc": "LHP Ethan Norby assigned to College Workout.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-07-16",
@@ -25582,17 +25582,17 @@
   },
   {
    "date": "2026-06-17",
-   "kind": "Assigned",
-   "desc": "LHP Ethan Norby assigned to College Workout.",
-   "typeDesc": "Assigned",
+   "kind": "Activated",
+   "desc": "College Workout activated LHP Ethan Norby.",
+   "typeDesc": "Status Change",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
   {
    "date": "2026-06-17",
-   "kind": "Activated",
-   "desc": "College Workout activated LHP Ethan Norby.",
-   "typeDesc": "Status Change",
+   "kind": "Assigned",
+   "desc": "LHP Ethan Norby assigned to College Workout.",
+   "typeDesc": "Assigned",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
