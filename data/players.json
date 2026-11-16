@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:31:27+00:00",
+ "generated_at": "2026-11-16T19:46:42+00:00",
  "season": 2026,
  "players": [
   {
@@ -835,20 +835,20 @@
     },
     {
      "date": "2021-05-17",
+     "kind": "Assigned",
+     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-05-17",
+     "kind": "Assigned",
+     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
+     "typeDesc": "Assigned"
+    },
+    {
+     "date": "2021-05-17",
      "kind": "Promotion",
      "desc": "OF Alec Burleson assigned to Springfield Cardinals from Peoria Chiefs.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-05-17",
-     "kind": "Assigned",
-     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2021-05-17",
-     "kind": "Assigned",
-     "desc": "OF Alec Burleson assigned to Springfield Cardinals.",
      "typeDesc": "Assigned"
     },
     {
@@ -14278,15 +14278,15 @@
     },
     {
      "date": "2022-08-15",
-     "kind": "Assigned",
-     "desc": "LHP Carson Whisenhunt assigned to ACL Giants Orange.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2022-08-15",
      "kind": "Activated",
      "desc": "ACL Giants Orange activated LHP Carson Whisenhunt.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2022-08-15",
+     "kind": "Assigned",
+     "desc": "LHP Carson Whisenhunt assigned to ACL Giants Orange.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2022-08-30",
@@ -14308,15 +14308,15 @@
     },
     {
      "date": "2023-04-26",
-     "kind": "Activated",
-     "desc": "Eugene Emeralds activated LHP Carson Whisenhunt.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-04-26",
      "kind": "Assigned",
      "desc": "LHP Carson Whisenhunt assigned to San Jose Giants.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-04-26",
+     "kind": "Activated",
+     "desc": "Eugene Emeralds activated LHP Carson Whisenhunt.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2023-06-03",
@@ -14440,15 +14440,15 @@
     },
     {
      "date": "2026-03-05",
-     "kind": "Assigned",
-     "desc": "LHP Carson Whisenhunt assigned to San Francisco Giants Prospects.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-03-05",
      "kind": "Activated",
      "desc": "San Francisco Giants Prospects activated LHP Carson Whisenhunt.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-03-05",
+     "kind": "Assigned",
+     "desc": "LHP Carson Whisenhunt assigned to San Francisco Giants Prospects.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-18",
@@ -19503,15 +19503,15 @@
     },
     {
      "date": "2025-07-19",
-     "kind": "Assigned",
-     "desc": "RHP Ethan Young assigned to FCL Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2025-07-19",
      "kind": "Signed",
      "desc": "St. Louis Cardinals signed RHP Ethan Young.",
      "typeDesc": "Signed"
+    },
+    {
+     "date": "2025-07-19",
+     "kind": "Assigned",
+     "desc": "RHP Ethan Young assigned to FCL Cardinals.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2025-08-04",
