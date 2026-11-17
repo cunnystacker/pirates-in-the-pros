@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:46:42+00:00",
+ "generated_at": "2026-11-17T18:43:03+00:00",
  "season": 2026,
  "players": [
   {
@@ -20708,15 +20708,15 @@
     },
     {
      "date": "2026-02-21",
-     "kind": "Assigned",
-     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-02-21",
      "kind": "Other",
      "desc": "RHP Tyler Bradt roster status changed by St. Louis Cardinals.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-02-21",
+     "kind": "Assigned",
+     "desc": "RHP Tyler Bradt assigned to St. Louis Cardinals.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-03-05",
