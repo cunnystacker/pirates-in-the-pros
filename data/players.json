@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:43:03+00:00",
+ "generated_at": "2026-11-18T18:20:17+00:00",
  "season": 2026,
  "players": [
   {
@@ -17552,12 +17552,6 @@
     },
     {
      "date": "2022-05-19",
-     "kind": "Activated",
-     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2022-05-19",
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
      "typeDesc": "Assigned"
@@ -17567,6 +17561,12 @@
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Kingsport Axmen.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2022-05-19",
+     "kind": "Activated",
+     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2022-05-20",
@@ -17594,15 +17594,15 @@
     },
     {
      "date": "2023-06-10",
-     "kind": "Activated",
-     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2023-06-10",
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2023-06-10",
+     "kind": "Activated",
+     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2024-05-09",
@@ -17618,15 +17618,15 @@
     },
     {
      "date": "2024-06-11",
-     "kind": "Activated",
-     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2024-06-11",
      "kind": "Assigned",
      "desc": "C Ryan McCrystal assigned to Burlington Sock Puppets.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2024-06-11",
+     "kind": "Activated",
+     "desc": "Burlington Sock Puppets activated C Ryan McCrystal.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2024-07-22",
@@ -24072,15 +24072,15 @@
     },
     {
      "date": "2024-01-09",
-     "kind": "Signed",
-     "desc": "Cleveland Guardians signed free agent RHP Carter Spivey to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2024-01-09",
      "kind": "Assigned",
      "desc": "RHP Carter Spivey assigned to ACL Guardians.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2024-01-09",
+     "kind": "Signed",
+     "desc": "Cleveland Guardians signed free agent RHP Carter Spivey to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2024-04-02",
