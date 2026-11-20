@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:32:56+00:00",
+ "generated_at": "2026-11-20T17:57:05+00:00",
  "season": 2026,
  "players": [
   {
@@ -16172,15 +16172,15 @@
     },
     {
      "date": "2026-01-10",
-     "kind": "Assigned",
-     "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-01-10",
      "kind": "Other",
      "desc": "RHP Josh Grosz roster status changed by Arizona Diamondbacks.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-01-10",
+     "kind": "Assigned",
+     "desc": "RHP Josh Grosz assigned to Hillsboro Hops.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-01-10",
@@ -18902,15 +18902,15 @@
     },
     {
      "date": "2025-07-15",
-     "kind": "Signed",
-     "desc": "Atlanta Braves signed 2B Dixon Williams.",
-     "typeDesc": "Signed"
-    },
-    {
-     "date": "2025-07-15",
      "kind": "Assigned",
      "desc": "2B Dixon Williams assigned to FCL Braves.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2025-07-15",
+     "kind": "Signed",
+     "desc": "Atlanta Braves signed 2B Dixon Williams.",
+     "typeDesc": "Signed"
     },
     {
      "date": "2025-08-01",
@@ -21388,15 +21388,15 @@
     },
     {
      "date": "2025-04-02",
-     "kind": "Injured/Dev list",
-     "desc": "Modesto Nuts placed RHP Wyatt Lunsford-Shenkman on the 60-day injured list.",
-     "typeDesc": "Status Change"
-    },
-    {
-     "date": "2025-04-02",
      "kind": "Assigned",
      "desc": "RHP Wyatt Lunsford-Shenkman assigned to Modesto Nuts.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2025-04-02",
+     "kind": "Injured/Dev list",
+     "desc": "Modesto Nuts placed RHP Wyatt Lunsford-Shenkman on the 60-day injured list.",
+     "typeDesc": "Status Change"
     },
     {
      "date": "2025-08-12",
