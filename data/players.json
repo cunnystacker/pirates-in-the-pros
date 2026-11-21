@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:57:05+00:00",
+ "generated_at": "2026-11-21T16:55:14+00:00",
  "season": 2026,
  "players": [
   {
@@ -21943,14 +21943,14 @@
     },
     {
      "date": "2025-06-14",
-     "kind": "Other",
-     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
+     "kind": "Activated",
+     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
      "typeDesc": "Status Change"
     },
     {
      "date": "2025-06-14",
-     "kind": "Activated",
-     "desc": "Brewster Whitecaps activated RHP Gavin Van Kempen.",
+     "kind": "Other",
+     "desc": "Brewster Whitecaps placed RHP Gavin Van Kempen on the temporarily inactive list.",
      "typeDesc": "Status Change"
     },
     {
