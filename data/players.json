@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:19:23+00:00",
+ "generated_at": "2026-11-23T21:37:38+00:00",
  "season": 2026,
  "players": [
   {
@@ -5858,15 +5858,15 @@
     },
     {
      "date": "2015-07-28",
-     "kind": "Assigned",
-     "desc": "RHP Jeff Hoffman assigned to New Britain Rock Cats.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2015-07-28",
      "kind": "Trade/claim",
      "desc": "Colorado Rockies traded SS Troy Tulowitzki and LaTroy Hawkins to Toronto Blue Jays for Jose Reyes, RHP Miguel Castro, RHP Jeff Hoffman and RHP Jesus Tinoco.",
      "typeDesc": "Trade"
+    },
+    {
+     "date": "2015-07-28",
+     "kind": "Assigned",
+     "desc": "RHP Jeff Hoffman assigned to New Britain Rock Cats.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2016-02-11",
@@ -19503,15 +19503,15 @@
     },
     {
      "date": "2025-07-19",
-     "kind": "Signed",
-     "desc": "St. Louis Cardinals signed RHP Ethan Young.",
-     "typeDesc": "Signed"
-    },
-    {
-     "date": "2025-07-19",
      "kind": "Assigned",
      "desc": "RHP Ethan Young assigned to FCL Cardinals.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2025-07-19",
+     "kind": "Signed",
+     "desc": "St. Louis Cardinals signed RHP Ethan Young.",
+     "typeDesc": "Signed"
     },
     {
      "date": "2025-08-04",
