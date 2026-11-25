@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:18:02+00:00",
+ "generated_at": "2026-11-25T19:31:48+00:00",
  "season": 2026,
  "players": [
   {
@@ -12,7 +12,7 @@
    "type": "Hitter",
    "bats": "L",
    "throws": "L",
-   "age": 27,
+   "age": 28,
    "hometown": "Charlotte, NC",
    "mlb_debut": "2022-09-08",
    "team": "St. Louis Cardinals",
@@ -23079,15 +23079,15 @@
     },
     {
      "date": "2026-05-19",
-     "kind": "Signed",
-     "desc": "Toronto Blue Jays signed free agent RHP Bradley Wilson to a minor league contract.",
-     "typeDesc": "Signed as Free Agent"
-    },
-    {
-     "date": "2026-05-19",
      "kind": "Assigned",
      "desc": "RHP Bradley Wilson assigned to Dunedin Blue Jays.",
      "typeDesc": "Assigned"
+    },
+    {
+     "date": "2026-05-19",
+     "kind": "Signed",
+     "desc": "Toronto Blue Jays signed free agent RHP Bradley Wilson to a minor league contract.",
+     "typeDesc": "Signed as Free Agent"
     },
     {
      "date": "2026-08-10",
