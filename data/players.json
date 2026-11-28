@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:08:20+00:00",
+ "generated_at": "2026-11-28T17:44:16+00:00",
  "season": 2026,
  "players": [
   {
@@ -21802,15 +21802,15 @@
     },
     {
      "date": "2026-06-17",
-     "kind": "Assigned",
-     "desc": "LHP Ethan Norby assigned to College Workout.",
-     "typeDesc": "Assigned"
-    },
-    {
-     "date": "2026-06-17",
      "kind": "Activated",
      "desc": "College Workout activated LHP Ethan Norby.",
      "typeDesc": "Status Change"
+    },
+    {
+     "date": "2026-06-17",
+     "kind": "Assigned",
+     "desc": "LHP Ethan Norby assigned to College Workout.",
+     "typeDesc": "Assigned"
     },
     {
      "date": "2026-07-16",
@@ -25582,17 +25582,17 @@
   },
   {
    "date": "2026-06-17",
-   "kind": "Assigned",
-   "desc": "LHP Ethan Norby assigned to College Workout.",
-   "typeDesc": "Assigned",
+   "kind": "Activated",
+   "desc": "College Workout activated LHP Ethan Norby.",
+   "typeDesc": "Status Change",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
   {
    "date": "2026-06-17",
-   "kind": "Activated",
-   "desc": "College Workout activated LHP Ethan Norby.",
-   "typeDesc": "Status Change",
+   "kind": "Assigned",
+   "desc": "LHP Ethan Norby assigned to College Workout.",
+   "typeDesc": "Assigned",
    "player": "Ethan Norby",
    "slug": "ethan-norby-825275"
   },
